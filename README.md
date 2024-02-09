@@ -1,2 +1,2 @@
-# bd-_SQL
+# bd_SQL
 Praticando SQL
