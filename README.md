@@ -6,5 +6,5 @@ Abaixo está um resumo das atividades realizadas:
 - Inserção de Dados
 - Consultas básicas
 - Atualização e Remoção
-- Funções agragadas
+- Funções agregadas
 - Junção de tabelas
