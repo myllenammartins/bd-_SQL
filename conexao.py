@@ -81,7 +81,6 @@ cursor = conexao.cursor()
 #for compras in dados:
 #    print(compras)
 
-# como eu tinha excluido um cliente por id, o comando acima não puxou todos os cliente_id, tive que renomear o id 5 para id 4, do nome do cliente Felipe
 #cursor.execute('UPDATE clientes SET id = 4 WHERE nome = "Felipe"')
 
 conexao.commit()
